@@ -1,0 +1,8 @@
+C:\Users\jon\source\repos\ElevatorSys\ElevatorSys\bin\Debug\ElevatorSys.exe.config
+C:\Users\jon\source\repos\ElevatorSys\ElevatorSys\bin\Debug\ElevatorSys.exe
+C:\Users\jon\source\repos\ElevatorSys\ElevatorSys\bin\Debug\ElevatorSys.pdb
+C:\Users\jon\source\repos\ElevatorSys\ElevatorSys\obj\Debug\ElevatorSys.csproj.AssemblyReference.cache
+C:\Users\jon\source\repos\ElevatorSys\ElevatorSys\obj\Debug\ElevatorSys.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon\source\repos\ElevatorSys\ElevatorSys\obj\Debug\ElevatorSys.csproj.CoreCompileInputs.cache
+C:\Users\jon\source\repos\ElevatorSys\ElevatorSys\obj\Debug\ElevatorSys.exe
+C:\Users\jon\source\repos\ElevatorSys\ElevatorSys\obj\Debug\ElevatorSys.pdb
